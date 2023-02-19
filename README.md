@@ -1,2 +1,2 @@
 # medicall
-A buddy catering to your medical needs 24*7
+An AI buddy catering to your medical needs 24*7
