@@ -1,0 +1,44 @@
+Let's chat! (type 'quit' to exit)
+You: Hello
+MediCall: Hey :-)
+You: I feel very anxious
+MediCall: Sorry! I do not understand...
+You: I'm feeling anxious
+MediCall: You seem to be having a panic attack. Do not fight it. Stay where you are, if possible. Breathe slowly and deeply. Focus on positive, peaceful and relaxing images.
+You: I'm sweating
+MediCall: You seem to be having a panic attack. Do not fight it. Stay where you are, if possible. Breathe slowly and deeply. Focus on positive, peaceful and relaxing images.
+You: I feel a sharp chest pain
+MediCall: Chew and swallow an aspirin, unless you are allergic to aspirin or have been told by your doctor never to take aspirin. Cardiologists nearby : https://bit.ly/cardiologists_nearby , A hospital near you : http://pulsecardiologygroup.co.uk/sussex-cardiovascular-clinic/
+You: What to do for asharp chest pain?
+MediCall: Sorry! I do not understand...
+You: What to do for a sharp chest pain?
+MediCall: Sorry! I do not understand...
+You: How to treat a sharp chest pain and increased heart rate?
+MediCall: Chew and swallow an aspirin, unless you are allergic to aspirin or have been told by your doctor never to take aspirin. Cardiologists nearby : https://bit.ly/cardiologists_nearby , A hospital near you : http://pulsecardiologygroup.co.uk/sussex-cardiovascular-clinic/
+You: My vision is diminishing
+MediCall: Consult an opthalmologist nearby. Follow this link to book an appointment - https://bit.ly/opthalmologists_nearby
+You: My apetitite is decreasing
+MediCall: Sorry! I do not understand...
+You: my apetite is decreasing
+MediCall: Here's a joke for you - Why did the hipster burn his mouth? He drank the coffee before it was cool.
+You: I could not sleep last night because of breathlessness
+MediCall: Find best pulmonologists nearby. Book an appointment now - https://bit.ly/pulmonologists_nearby
+You: I have a very high fever
+MediCall: Have a paracetamol to reduce the temperature. Drink lots of water, keep yourself hydrated. Find the best general physicians nearby - https://bit.ly/pcp_nearby
+You: How to check if one is obsese?
+MediCall: Check your BMI here to know if you're really obese- https://patient.info/doctor/bmi-calculator-calculator. If you're obese or extremely obese, consider consulting a dietician nearby. Find dieticians/nutritionists nearby - https://bit.ly/diet_care
+You: Why did I experience a sudden weight loss ?
+MediCall: Eat healthy and organic foods. Practise yoga everyday. Include fruits and green vegetables in your diet. Consult a dietician for advice - https://bit.ly/diet_care 
+You: How do I treat a joint pain?
+MediCall: For moderate-to-severe joint pain with swelling, an over-the-counter or prescription nonsteroidal anti-inflammatory drug (NSAID) such as aspirin, celecoxib, ibuprofen, or naproxen can provide relief. NSAIDs can have side effects, potentially increasing your risk for gastrointestinal bleeding.If you have mild pain without any swelling, acetaminophen can be effective. Be careful when taking this medicine though, especially if you drink alcohol, because high doses may cause liver damage. Because of the risks, you should take any of these pain medications with caution.
+You: How do I treat a tooth ache?
+MediCall: Salt water gargles will help soothe the pain. Book an appointment with a nearby dentist - https://bit.ly/dentists_visit
+You: Find doctors or hospitals asap
+MediCall: Websites to find nearest hospitals include : Zocdoc - https://www.zocdoc.com/ , Healthgrades - https://www.healthgrades.com/ , WebMD - https://www.webmd.com/ , Yelp - https://www.yelp.com/ , Google Maps - https://www.google.com/maps/
+You: Find diagnostic centres asap
+MediCall: Websites to find diagnostic centres nearby : BMI Healthcare - https://www.bmihealthcare.co.uk/ , Nuffield Health - https://www.nuffieldhealth.com/ , The London Clinic - https://www.thelondonclinic.co.uk/ , Spire Healthcare - https://www.spirehealthcare.com/ , Medicspot - https://www.medicspot.co.uk/
+You: thank you for your service
+MediCall: My pleasure
+You: goodbye
+MediCall: Have a nice day
+You: quit
